@@ -4,12 +4,14 @@
   margin: auto;
   justify-content: space-between;
   background-color: white;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
 }
 .searchInputContainer {
   display: flex;
   align-items: center;
   flex: 4;
-  margin-top: 4px;
+  margin-top: 9px;
   background-color: rgb(224, 228, 232);
   padding: 5px;
   border-radius: 10px;
