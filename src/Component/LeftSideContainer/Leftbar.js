@@ -16,42 +16,42 @@ export default function Leftbar() {
           <p style={{color:'#aaa', marginLeft:'40px'}}>See all</p>
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image2}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Karina like your post</p>
           <img src={`${image1}`} className='likeimage' alt='' />
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image1}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Claudia started to following you</p>
-          <img src={`${image1}`} className='followinguserimage' alt='' />
+          <img src={`${image2}`} className='followinguserimage' alt='' />
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image3}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Melissa like your post</p>
           <img src={`${image1}`} className='likeimage' alt='' />
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image4}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Claudia started to following you</p>
           <img src={`${image1}`} className='followinguserimage' alt='' />
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image5}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Karina like your post</p>
-          <img src={`${image1}`} className='likeimage' alt='' />
+          <img src={`${image2}`} className='likeimage' alt='' />
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image3}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Claudia started to following you</p>
           <img src={`${image1}`} className='followinguserimage' alt='' />
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image3}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Karina like your post</p>
           <img src={`${image1}`} className='likeimage' alt='' />
         </div>
         <div style={{display:'flex',alignItems:'center'}}>
-          <img src={`${image}`} className='notificationimg' alt='' />
+          <img src={`${image2}`} className='notificationimg' alt='' />
           <p style={{marginLeft: '5px',color:'#aaa',fontSize:13, textAlign:'start',width:'120px', marginTop:-10}}>Karina like your post</p>
           <img src={`${image1}`} className='likeimage' alt='' />
         </div>
