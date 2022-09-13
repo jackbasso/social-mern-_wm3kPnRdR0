@@ -44,7 +44,77 @@ export default function Rightbar() {
                 <p style={{marginLeft: '10px',textAlign:'start', marginTop:'-16px', fontSize:'9px', color:'#aaa'}}>Suggested for you</p>
               </div>
           </div>
-          <div style={{marginRight:'15'}}>
+          <div style={{marginRight:'15px', cursor: 'pointer'}}>
+            <img src={`${profile}`} className='addFriend' alt='' />
+          </div>
+          </div>
+        </div>
+        <div style={{marginTop:'-5px'}}>
+          <div style={{display:'flex', alignItem:'center', justifyContent:'space-between'}}>
+            <div style={{display:'flex', alignItem:'center'}}>
+            <img src={`${image2}`} className='profileImage' alt='' />
+              <div>
+                <p style={{marginLeft: '10px',textAlign:'start'}}>Lorena Ruiz</p>
+                <p style={{marginLeft: '10px',textAlign:'start', marginTop:'-16px', fontSize:'9px', color:'#aaa'}}>Suggested for you</p>
+              </div>
+          </div>
+          <div style={{marginRight:'15px', cursor: 'pointer'}}>
+            <img src={`${profile}`} className='addFriend' alt='' />
+          </div>
+          </div>
+        </div>
+        <div style={{marginTop:'-5px'}}>
+          <div style={{display:'flex', alignItem:'center', justifyContent:'space-between'}}>
+            <div style={{display:'flex', alignItem:'center'}}>
+            <img src={`${image2}`} className='profileImage' alt='' />
+              <div>
+                <p style={{marginLeft: '10px',textAlign:'start'}}>Jack Baso</p>
+                <p style={{marginLeft: '10px',textAlign:'start', marginTop:'-16px', fontSize:'9px', color:'#aaa'}}>Suggested for you</p>
+              </div>
+          </div>
+          <div style={{marginRight:'15px', cursor: 'pointer'}}>
+            <img src={`${profile}`} className='addFriend' alt='' />
+          </div>
+          </div>
+        </div>
+        <div style={{marginTop:'-5px'}}>
+          <div style={{display:'flex', alignItem:'center', justifyContent:'space-between'}}>
+            <div style={{display:'flex', alignItem:'center'}}>
+            <img src={`${image2}`} className='profileImage' alt='' />
+              <div>
+                <p style={{marginLeft: '10px',textAlign:'start'}}>Jack Baso</p>
+                <p style={{marginLeft: '10px',textAlign:'start', marginTop:'-16px', fontSize:'9px', color:'#aaa'}}>Suggested for you</p>
+              </div>
+          </div>
+          <div style={{marginRight:'15px', cursor: 'pointer'}}>
+            <img src={`${profile}`} className='addFriend' alt='' />
+          </div>
+          </div>
+        </div>
+        <div style={{marginTop:'-5px'}}>
+          <div style={{display:'flex', alignItem:'center', justifyContent:'space-between'}}>
+            <div style={{display:'flex', alignItem:'center'}}>
+            <img src={`${image2}`} className='profileImage' alt='' />
+              <div>
+                <p style={{marginLeft: '10px',textAlign:'start'}}>Jack Baso</p>
+                <p style={{marginLeft: '10px',textAlign:'start', marginTop:'-16px', fontSize:'9px', color:'#aaa'}}>Suggested for you</p>
+              </div>
+          </div>
+          <div style={{marginRight:'15px', cursor: 'pointer'}}>
+            <img src={`${profile}`} className='addFriend' alt='' />
+          </div>
+          </div>
+        </div>
+        <div style={{marginTop:'-5px'}}>
+          <div style={{display:'flex', alignItem:'center', justifyContent:'space-between'}}>
+            <div style={{display:'flex', alignItem:'center'}}>
+            <img src={`${image2}`} className='profileImage' alt='' />
+              <div>
+                <p style={{marginLeft: '10px',textAlign:'start'}}>Karina Baso</p>
+                <p style={{marginLeft: '10px',textAlign:'start', marginTop:'-16px', fontSize:'9px', color:'#aaa'}}>Suggested for you</p>
+              </div>
+          </div>
+          <div style={{marginRight:'15px', cursor: 'pointer'}}>
             <img src={`${profile}`} className='addFriend' alt='' />
           </div>
           </div>
