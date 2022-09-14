@@ -1,0 +1,17 @@
+.ContentUploadContainer {
+  width: 94%;
+  background-color: white;
+  height: 20vh;
+  margin: auto;
+  margin-top: 20px;
+}
+
+.contentWritingpart {
+  width: 70%;
+  margin-left: 10px;
+}
+.profileimage {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+}
